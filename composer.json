@@ -1,5 +1,5 @@
 {
-  "name": "aseemann/oauth2",
+  "name": "mfac/oauth2",
   "type": "typo3-cms-extension",
   "description": "Generic OAuth2 authentication and authorization for TYPO3 CMS",
   "homepage": "https://www.marketing-factory.de",
@@ -35,7 +35,7 @@
     "m4tthumphrey/php-gitlab-api": "^9.10",
     "omines/oauth2-gitlab": "^3.1",
     "php-http/guzzle6-adapter": "^1.1",
-    "typo3/cms-core": "^8.7||^9.4",
+    "typo3/cms-core": "^8.7||^9.4||^10.3",
     "typo3/cms-beuser": "^8.7||^9.4||^10.3"
   }
 }
